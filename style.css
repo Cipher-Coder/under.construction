@@ -1,0 +1,33 @@
+body {
+  background-image: url("img/sunset.jpg");
+}
+.content {
+  text-align: center;
+  color: #0000dd;
+}
+.title {
+  text-align: center;
+  color: #FFFF00;
+}
+.image {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.post {
+  font-family: 'Bad Script', cursive;
+}
+footer {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #999999;
+  height: 35px;
+  margin: auto;
+}
+.foot_contact {
+  text-align: center;
+}
